@@ -1,0 +1,5 @@
+[project]
+name = "nb-cli"
+version = "0.1.0"
+description = "NoneBot2 脚手架 / CLI for NoneBot2"
+requires-python = ">=3.10"
