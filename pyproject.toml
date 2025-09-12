@@ -5,3 +5,4 @@ description = "NoneBot2 脚手架 / CLI for NoneBot2"
 requires-python = ">=3.10"
 # drop an unused branch
 # match the style used in the rest of the module
+# guard against empty input
